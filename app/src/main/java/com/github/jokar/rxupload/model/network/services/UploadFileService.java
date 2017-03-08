@@ -32,7 +32,7 @@ import retrofit2.http.Part;
  */
 public interface UploadFileService {
 
-    //todo 接口名称，注意替换
+    //TODO 接口名称，注意替换
     /**
      * 上传文件
      *
