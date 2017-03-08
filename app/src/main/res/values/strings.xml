@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxUpload</string>
+    <string name="failed">failed</string>
+    <string name="done">done</string>
+</resources>
